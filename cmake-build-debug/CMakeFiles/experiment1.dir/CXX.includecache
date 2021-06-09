@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiaomaotou31/大学课程/图形学/experiment1/main.cpp
+iostream
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+

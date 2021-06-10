@@ -7,11 +7,11 @@ C_FLAGS = -g
 
 C_DEFINES = 
 
-C_INCLUDES = 
+C_INCLUDES = -I/home/xiaomaotou31/大学课程/图形学/experiment1/./include 
 
 CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/xiaomaotou31/大学课程/图形学/experiment1/./include 
 

@@ -11,6 +11,7 @@ set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
+  ".././include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/xiaomaotou31/大学课程/图形学/experiment1/main.cpp" "/home/xiaomaotou31/大学课程/图形学/experiment1/cmake-build-debug/CMakeFiles/experiment1.dir/main.cpp.o"
@@ -19,6 +20,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  ".././include"
   )
 
 # Targets to which this target links.
